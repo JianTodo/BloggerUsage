@@ -1,0 +1,8 @@
+Step 1. https://nodejs.org/en/
+Step 2. npm install -g @angular/cli
+
+ng new my-app
+ng serve --open
+
+因為我選擇要安裝，所以連 python3 也安裝了
+Chocolatey v0.10.15
