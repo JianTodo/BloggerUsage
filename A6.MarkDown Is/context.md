@@ -27,7 +27,7 @@
 
 ## 標題
 - 範例
-	<pre class="brush:sehll;">
+	<pre class="brush:shell;">
 	// H1 文字大小
 	# Size H1
 	// H2 文字大小
@@ -44,7 +44,7 @@
 	
 ## 文字
 - 範例
-	<pre class="brush:sehll;">
+	<pre class="brush:shell;">
 	// 斜體
 	_emphasize_
 	// 粗體
@@ -64,7 +64,7 @@
 	> Quoted text.
 ## 項目
 - 範例 1
-	<pre class="brush:sehll;">
+	<pre class="brush:shell;">
 	- Item
 		 * Item
 			 + Item
@@ -74,7 +74,7 @@
 		 * Item
 			 + Item
 - 範例 2
-	<pre class="brush:sehll;">
+	<pre class="brush:shell;">
 	1. Item1
 	2. Item2
 	</pre>
@@ -82,7 +82,7 @@
 	1. Item1
 	2. Item2
 - 範例 3
-	<pre class="brush:sehll;">
+	<pre class="brush:shell;">
 	- [ ] Non-Done item
 	- [x] Done item
 	</pre>
@@ -91,17 +91,17 @@
 	- [x] Done item
 ## 外部連結
 - 範例 1
-	<pre class="brush:sehll;">
+	<pre class="brush:shell;">
 	[Google](https://www.google.com)
 	</pre>
 - 結果 1
 	[Google](https://www.google.com)
 - 範例 2
-	<pre class="brush:sehll;">
+	<pre class="brush:shell;">
 	![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true)
 	</pre>
 - 結果 2
-	![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true)
+![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true)
 ## 程式碼
 - 範例
 	<pre class="brush:csharp;">
@@ -116,7 +116,7 @@
 	```
 ## 表格
 - 範例
-	<pre class="brush:sehll;">
+	<pre class="brush:shell;">
 	| 標題 1  | 標題 2 |  標題 3 |
 	|:------:|:-------|-------:|
 	|   置中  |  置左  |   置右  |
@@ -127,7 +127,7 @@
 	| 置中| 置左 | 置右 |
 ## 其他
 - 範例 - 下底線
-	<pre class="brush:sehll;">
+	<pre class="brush:shell;">
 	**&lt;u&gt;下底&lt;/u&gt;**==線==
 	</pre>
 - 結果 - 下底線
