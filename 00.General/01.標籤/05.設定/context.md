@@ -13,3 +13,4 @@
 |2021/06/04|[Share Blogger Post On FaceBook Automatically](../2021/06/share-blogger-post-on-facebook.html)|2021/06/04|
 |2021/06/07|[Mac Parallels Desktop Install Windows 10](../2021/06/mac-parallels-desktop-install-windows-10.html)|2021/06/07|
 |2021/06/09|[MD File Extension Is?](../2021/06/md-file-extension-is.html)|2021/06/09|
+|2021/06/09|[Mac Parallels Desktop Install Ubuntu](../2021/06/mac-parallels-desktop-install-ubuntu.html)|2021/06/09|
