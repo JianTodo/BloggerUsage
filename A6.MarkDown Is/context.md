@@ -104,9 +104,11 @@
 ![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true)
 ## 程式碼
 - 範例
-	<pre class="brush:csharp;">
+	<pre class="brush:shell;">
+	```
 	// Hello World String
 	var str= "Hello World";
+	```
 	</pre>
 - 結果
 	```
