@@ -1,5 +1,5 @@
 <div class="mdtable"></div>
-<img src="https://github.com/JianTodo/BloggerUsage/blob/master/A4.Angular%20Install/0.png?raw=true" />
+<img src="https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true" />
 
 ## 前言
 **MD 副檔名的檔案 是什麼呢？**
@@ -62,3 +62,83 @@
 	==Yellow text.==
 	~~Mistaken text.~~
 	> Quoted text.
+## 項目
+- 範例 1
+	<pre class="brush:sehll;">
+	- Item
+		 * Item
+			 + Item
+	</pre>
+- 結果 1
+	- Item
+		 * Item
+			 + Item
+- 範例 2
+	<pre class="brush:sehll;">
+	1. Item1
+	2. Item2
+	</pre>
+- 結果 2
+	1. Item1
+	2. Item2
+- 範例 3
+	<pre class="brush:sehll;">
+	- [ ] Non-Done item
+	- [x] Done item
+	</pre>
+- 結果 3
+	- [ ] Non-Done item
+	- [x] Done item
+## 外部連結
+- 範例 1
+	<pre class="brush:sehll;">
+	[Google](https://www.google.com)
+	</pre>
+- 結果 1
+	[Google](https://www.google.com)
+- 範例 2
+	<pre class="brush:sehll;">
+	![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true)
+	</pre>
+- 結果 2
+	![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true)
+## 程式碼
+- 範例
+	<pre class="brush:csharp;">
+	// Hello World String
+	var str= "Hello World";
+	</pre>
+- 結果
+	```
+	// Hello World String
+	
+	var str= "Hello World";
+	```
+## 表格
+- 範例
+	<pre class="brush:sehll;">
+	| 標題 1  | 標題 2 |  標題 3 |
+	|:------:|:-------|-------:|
+	|   置中  |  置左  |   置右  |
+	</pre>
+- 結果
+	| 標題 1 | 標題 2 | 標題 3 |
+	|:--------:|:--------|--------:|
+	| 置中| 置左 | 置右 |
+## 其他
+- 範例 - 下底線
+	<pre class="brush:sehll;">
+	**&lt;u&gt;下底&lt;/u&gt;**==線==
+	</pre>
+- 結果 - 下底線
+	**<u>下底</u>**==線==
+## 總結
+小編以前寫 Blogger 都是直接使用 HTML 與 CSS，
+每每寫一篇可能必須花3~7天，
+曾經苦苦尋找能否有更快速的撰寫範例或規範，
+但是都沒有很大的效果，
+直到 MD 的出現，彷彿看到救星一般，
+此 Blogger 也陸續全面改用 MD 編寫，
+效率真的是快了不少，
+而且很多大廠牌也將說明檔改為 MD，
+一舉兩得!!!非常推薦大家一起使用。
