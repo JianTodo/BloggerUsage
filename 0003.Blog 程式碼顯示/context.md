@@ -1,5 +1,5 @@
 <div class="mdtable"></div>
-<img src="https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/Icon.png?raw=true" style="display: none; width: 0px;" />
+<img src="https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/Icon.png?raw=true" style="display: none; width: 0px;" />
 
 ## 前言
 
@@ -42,34 +42,34 @@ SyntaxHighlighter `JavaScript(.js)` 最好放置在自己的空間，例如自�
  ## 1. Google協作平台
  
  1. 建立協作平台==選用傳統板==~~新版不太會用~~
-![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/1.png?raw=true)
+![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/1.png?raw=true)
 2. 協作平台命名建立
     > 1. 命名規則會有提示
     > 2. 不能和全世界撞名
     
-    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/2.png?raw=true)
+    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/2.png?raw=true)
  3. 進入管理平台
-    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/3.jpg?raw=true)
+    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/3.jpg?raw=true)
 4. 上傳所有`Javascript(.js)`與`CSS(.css)`檔案
-    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/4.jpg?raw=true)
+    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/4.jpg?raw=true)
 
 ## 2. GitHub
 1. 建立GitHub帳號
 2. 點選Repositories，再點選New
     >**[小編的GitHb]([https://github.com/JianTodo](https://github.com/JianTodo))**
     
-    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/5.png?raw=true)
+    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/5.png?raw=true)
 3. 設定Repositorory name與`Public`即可建立
    **注意以下兩點:**
    1. Repository name : ==[Owner].github.io==
       - 小編為範例: JianTodo.github.io 
     2.  一定要選擇==Public==才可以公開連線
 
-   ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/11.png?raw=true)
+   ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/11.png?raw=true)
 4. 進入剛剛建立的Repositorory點選==uploading an existing files.==
-  ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/7.png?raw=true)
+  ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/7.png?raw=true)
 5. 上傳結果
-   ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/8.png?raw=true)
+   ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/8.png?raw=true)
 
 > 根據Github[官方文件](https://help.github.com/en/github/working-with-github-pages/about-github-pages)的使用限制如下：
 > 1. 一個目錄的檔案存放上限為 1GB
@@ -79,11 +79,11 @@ SyntaxHighlighter `JavaScript(.js)` 最好放置在自己的空間，例如自�
 在使用之前要先在部落格上面加入一些==程式==
 以下為**Google Blogger**為例
 1. 登入部落格點選主題，再點選`⋮`，選擇**編輯HTML**
-    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/9.png?raw=true)
+    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/9.png?raw=true)
 2. 搜尋`</body>`
    > 要點選至編輯內文再按下`Ctrl`+`F`搜尋
   
-    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/03.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/10.png?raw=true)
+    ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0003.Blog%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A1%AF%E7%A4%BA/10.png?raw=true)
 3. body上方需加入上傳檔案鏈結
     - <div id="googlePl"><strong>Google協作平台</strong></div>
  
