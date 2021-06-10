@@ -1,5 +1,5 @@
 <div class="mdtable"></div>
-<img src="https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true" />
+<img src="https://github.com/JianTodo/BloggerUsage/blob/master/0013.MarkDown%20Is/0.png?raw=true" />
 
 ## 前言
 **MD 副檔名的檔案 是什麼呢？**
@@ -98,10 +98,10 @@
 	[Google](https://www.google.com)
 - 範例 2
 	<pre class="brush:shell;">
-	![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true)
+	![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/0013.MarkDown%20Is/0.png?raw=true)
 	</pre>
 - 結果 2
-![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/A6.MarkDown%20Is/0.png?raw=true)
+![MarkDown Image](https://github.com/JianTodo/BloggerUsage/blob/master/0013.MarkDown%20Is/0.png?raw=true)
 ## 程式碼
 - 範例
 	<pre class="brush:shell;">
