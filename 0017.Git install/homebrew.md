@@ -32,26 +32,28 @@ Mac 系統對開發者來說很多工具還是得自己想辦法~~它很封閉�
 ## No Password Install
 
 1. 開啟終端機，輸入下面語法
-<pre  class="brush:shell;">
+	<pre  class="brush:shell;">
 	mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
 </pre>
-2. 準備加入「**==$PATH==**」，但小編不是很確定路徑位置，所以先根據下載位置先找到 **brew 執行檔** ，例如小編開啟終端機預設是使用者/charlesjian/==homebrew/bin==
 
-![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0017.Git%20install/Mac/18.png?raw=true)
+2. 準備加入「**==$PATH==**」，但小編不是很確定路徑位置，所以先根據下載位置先找到 **brew 執行檔** ，例如小編開啟終端機預設是使用者/charlesjian/==homebrew/bin==
+	
+	![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0017.Git%20install/Mac/18.png?raw=true)
 
 3. 點選 「**brew 執行檔**」，PATH 需要新增 ==/Users/charlesjian/homebrew/bin/brew==
 	![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0017.Git%20install/Mac/19.png?raw=true)
 
 4. 加入 $PATH 
 	1. 開啟終端機，輸入下述語法
-	<pre  class="brush:shell;">
+		<pre  class="brush:shell;">
 		vi ~/.bash_profile
-	</pre>		
-	![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0017.Git%20install/Mac/20.png?raw=true)
+	</pre>												![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0017.Git%20install/Mac/20.png?raw=true)
+
 	2. 再輸入下述語法
 		==export PATH=$PATH:{剛剛下載路徑}==
 	輸入完按「**==esc==**」
 	最後輸入「**==:wq!==**」
+		
 		<pre  class="brush:shell;">
 		export PATH=$PATH:/Users/charlesjian/homebrew/bin/brew
 	</pre>	
@@ -60,17 +62,16 @@ Mac 系統對開發者來說很多工具還是得自己想辦法~~它很封閉�
 	3. 輸入下述語法，完成設定
 		<pre  class="brush:shell;">
 		soucre ~/.bash_profile
-	</pre>
-	
+	</pre>	
+
 	![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0017.Git%20install/Mac/22.png?raw=true)
-	
 5. ==請**另開**終端機==，輸入下述語法確認儲存成功
 		<pre  class="brush:shell;">
 		echo $PATH
 		brew -v
 	</pre>
 	
-![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0017.Git%20install/Mac/23.png?raw=true)
+	![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0017.Git%20install/Mac/23.png?raw=true)
 
 ## Bash to ZSH
 
