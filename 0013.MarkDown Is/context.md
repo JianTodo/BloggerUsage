@@ -96,7 +96,7 @@
 - 範例<br/>
 	<pre  class="brush:shell;">```<br/>// Hello World String<br/>var str= "Hello World";<br/>```</pre>
 - 結果
-	```
+	```csharp
 	// Hello World String
 	var str= "Hello World";
 	```
