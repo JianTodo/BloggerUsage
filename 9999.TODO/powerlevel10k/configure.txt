@@ -1,0 +1,25 @@
+
+# 讓執行 sudo 的時候免輸入密碼
+# 請記得將 charles 換成你自己的 WSL 登入帳號
+echo "charles ALL = (root) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/charles
+# 升級所有套件
+sudo apt-get update && sudo apt-get upgrade
+
+
+# 下載 zsh
+sudo apt-get install zsh
+zsh --version
+# 將 zsh 設為預設 shell，完成後關掉 App 再重開，並直接按 0 建立空白含註解的 .zshrc
+chsh -s $(which zsh)
+# 安裝 oh-my-zsh（擇一）
+#sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
+p10k configure
+
+
+https://blog.poychang.net/note-windows-terminal/
+https://www.youtube.com/watch?v=235G6X5EAvM&t=1200s
