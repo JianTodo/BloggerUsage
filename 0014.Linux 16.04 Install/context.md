@@ -8,7 +8,7 @@
 ## 前言
 
 [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) 是小編以前都不敢碰到的領域 (Linux OS)，有很大原因是因為不管是求學或是工作皆是使用 Windows OS，而且畫面精美操作方便。<br/>
-但 Windows OS 有一個很大的缺點 : **「收費」**，先前小編也以分享過[如何安裝 Windows 10](../2021/06/mac-parallels-desktop-install-windows-10.html)，身為技術人員~~免錢專業戶~~，一定要精進一下。
+但 Windows OS 有一個很大的缺點 : **「收費」**，先前小編也以分享過[如何安裝 Windows 10](../../2021/06/mac-parallels-desktop-install-windows-10.html)，身為技術人員~~免錢專業戶~~，一定要精進一下。
 
 下面將介紹小編
 
