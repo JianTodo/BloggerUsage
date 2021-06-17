@@ -14,8 +14,8 @@ Mac 系統對開發者來說很多工具還是得自己想辦法~~它很封閉�
 <div class="headline">
 
  - <a href="#基本安裝">基本安裝</a>
- - <a href="#No Password Install">No Password Install</a>
- - <a href="#Bash to ZSH">Bash to ZSH</a>
+ - <a href="#no-password-install">No Password Install</a>
+ - <a href="#bash-to-zsh">Bash to ZSH</a>
  - <a href="#總結">總結</a>
 </div>
 <hr>
