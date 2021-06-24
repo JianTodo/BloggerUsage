@@ -55,7 +55,7 @@
 ## Demo
 <div class="videocontrols">
 &lt;video controls poster="https://github.com/JianTodo/BloggerUsage/blob/master/0020.oCam/0.png?raw=true" style="width: inherit;" &gt;
-    &lt;source src="/JianTodo/BloggerUsage/blob/master/0020.oCam/99.mp4?raw=true"
+    &lt;source src="https://github.com/JianTodo/BloggerUsage/blob/master/0020.oCam/99.mp4?raw=true"
             type="video/mp4" /&gt;
     Sorry, your browser doesn't support embedded videos.
 &lt;/video&gt;
