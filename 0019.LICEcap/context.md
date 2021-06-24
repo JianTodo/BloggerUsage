@@ -38,6 +38,19 @@
 3. 安裝位置，點選「Install」<br/>![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0019.LICEcap/3.png?raw=true)
 4. 安裝完成，點選「Close」<br/>![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0019.LICEcap/4.png?raw=true)
 
+## 功能描述
+| 功能 | 描述 |
+|:--:|:--:|
+| Record | 錄影 |
+| Size | 錄影畫面大小 |
+| pause | 暫停錄影 |
+| unpause | 停止暫停錄影 |
+| Stop | 停止錄影 |
+| insert | 停止畫面中加入文字 |
+| title frame | 設定片頭的標題與呈現幾秒 |
+| elapsed time | 顯示錄影的時間 |
+| mouse button press | 顯示滑鼠的點擊 |
+
 ## Demo
 ![enter image description here](https://github.com/JianTodo/BloggerUsage/blob/master/0019.LICEcap/5.gif?raw=true)
 ## 總結
